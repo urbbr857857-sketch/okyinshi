@@ -1,0 +1,56 @@
+{
+  "sites": [
+    {
+      "key": "JableTV",
+      "name": "JableTV",
+      "type": 3,
+      "api": "./Jable.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    },
+    {
+      "key": "Pornhb",
+      "name": "Pornhub",
+      "type": 3,
+      "api": "./Pornhub.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    },
+    {
+      "key": "海角",
+      "name": "海角乱伦",
+      "type": 3,
+      "api": "./海角乱伦.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+     } ,
+      {
+      "key": "花都",
+      "name": "花都影视",
+      "type": 3,
+      "api": "./花都影视.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    }
+  ]
+}

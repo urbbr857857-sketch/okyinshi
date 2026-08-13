@@ -4,7 +4,7 @@
       "key": "JableTV",
       "name": "JableTV",
       "type": 3,
-      "api": "jable.py",
+      "api": "./jable.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

@@ -51,6 +51,18 @@
       "ext": {
         "flag": "py"
       }
-    }
+    }，
+       {
+      "key": "花都1",
+      "name": "花都影视1",
+      "type": 3,
+      "api": "./花都影视.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
   ]
 }

@@ -4,7 +4,7 @@
       "key": "JableTV",
       "name": "JableTV",
       "type": 3,
-      "api": "https://raw.github.com/urbbr857857-sketch/okyinshi/blob/a49ea7d0de2f73d117316a017e1070d719538601/jable.py",
+      "api": "./jable.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

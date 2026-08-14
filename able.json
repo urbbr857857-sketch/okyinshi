@@ -51,6 +51,19 @@
       "ext": {
         "flag": "py"
       }
+    },
+    {
+      "key": "芒果py",
+      "name": "芒果影视",
+      "type": 3,
+      "api": "./芒果.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
     }
   ]
 }

@@ -77,6 +77,19 @@
       "ext": {
         "flag": "py"
       }
-    }
+    },
+    {
+      "key": "哇哇",
+      "name": "哇哇影视",
+      "type": 3,
+      "api": "./哇哇.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+      {
   ]
 }

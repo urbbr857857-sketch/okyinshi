@@ -4,7 +4,7 @@
       "key": "袋鼠",
       "name": "袋鼠影视",
       "type": 3,
-      "api": "./dsys.py",
+      "api": "https://raw.github.com/urbbr857857-sketch/okyinshi/blob/main/dsys%20.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

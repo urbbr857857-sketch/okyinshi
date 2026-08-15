@@ -106,7 +106,7 @@
     },
     {
       "key": "missav",
-      "name": "花都影视",
+      "name": "missav",
       "type": 3,
       "api": "./py_missav.py",
       "changeable": 1,

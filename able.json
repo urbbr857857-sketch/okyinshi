@@ -40,10 +40,10 @@
       }
     },
     {
-      "key": "悟空",
-      "name": "悟空影视",
+      "key": "聚合短剧",
+      "name": "聚合短剧",
       "type": 3,
-      "api": "./悟空影视.py",
+      "api": "./聚合短剧.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

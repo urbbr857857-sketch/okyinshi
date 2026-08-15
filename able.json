@@ -4,7 +4,7 @@
       "key": "袋鼠",
       "name": "袋鼠影视",
       "type": 3,
-      "api": "./袋鼠影视.py",
+      "api": "./dsys.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

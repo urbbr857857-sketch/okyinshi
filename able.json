@@ -79,6 +79,19 @@
       }
     },
     {
+      "key": "missav",
+      "name": "missav",
+      "type": 3,
+      "api": "./py_missav.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    },
+    {
       "key": "海角",
       "name": "海角",
       "type": 3,
@@ -96,19 +109,6 @@
       "name": "花都影视",
       "type": 3,
       "api": "./花都影视.py",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "flag": "py"
-      }
-    },
-    {
-      "key": "missav",
-      "name": "missav",
-      "type": 3,
-      "api": "./py_missav.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

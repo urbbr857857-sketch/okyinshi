@@ -40,6 +40,19 @@
       }
     },
     {
+      "key": "毒舌影视",
+      "name": "毒舌影视",
+      "type": 3,
+      "api": "./毒舌影视.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    },
+    {
       "key": "聚合短剧",
       "name": "聚合短剧",
       "type": 3,

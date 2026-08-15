@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "芒果py",
-      "name": "芒果影视",
+      "key": "袋鼠",
+      "name": "袋鼠影视",
       "type": 3,
-      "api": "./芒果.py",
+      "api": "./袋鼠影视.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

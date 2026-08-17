@@ -47,7 +47,7 @@
 	  "key": "枫叶",
       "name": "枫叶4k",
       "type": 3,
-      "api": "./枫叶4k.py",
+      "api": "./枫叶影视.py",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,

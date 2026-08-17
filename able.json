@@ -43,6 +43,19 @@
          "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
+	  {
+	  "key": "枫叶",
+      "name": "枫叶4k",
+      "type": 3,
+      "api": "./枫叶4k.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "flag": "py"
+      }
+    },
 	
     {
       "key": "袋鼠",
